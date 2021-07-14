@@ -13,3 +13,7 @@ Submit a screenshot of your report and a screenshot of proof that the alert has 
 
 ![Splunk2](https://user-images.githubusercontent.com/77302201/125706293-05b72d70-7ea5-4471-9d35-f3b8c9e81a92.png)
 ![Splunk3](https://user-images.githubusercontent.com/77302201/125706347-3560c670-a811-4de4-8b27-8f9fc23a8361.png)
+![Splunk4](https://user-images.githubusercontent.com/77302201/125706429-9ed1fef7-16ac-4b16-b576-ab7cdd351a05.png)
+
+Submit the answers to the questions about the brute force timing, baseline and threshold. Additionally, provide a screenshot as proof that the alert has been created.
+
