@@ -15,6 +15,10 @@ Submit a screenshot of your report and a screenshot of proof that the alert has 
 ![Splunk3](https://user-images.githubusercontent.com/77302201/125706347-3560c670-a811-4de4-8b27-8f9fc23a8361.png)
 ![Splunk4](https://user-images.githubusercontent.com/77302201/125706429-9ed1fef7-16ac-4b16-b576-ab7cdd351a05.png)
 
+When did the brute force attack occur?
+February 21st at 8am up until 2pm.
+
 Submit the answers to the questions about the brute force timing, baseline and threshold. Additionally, provide a screenshot as proof that the alert has been created.
 
 ![Splunk5](https://user-images.githubusercontent.com/77302201/125707371-6ccf826c-b861-4d59-93c2-03846e81a667.png)
+![Splunk6](https://user-images.githubusercontent.com/77302201/125707455-a40b4f3a-3e90-47ae-bf76-5a4711da404b.png)
